@@ -1,4 +1,6 @@
 # -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+## NAME: Jayagar.T
+## REG.NO: 212224220042
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
